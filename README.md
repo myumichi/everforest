@@ -7,7 +7,7 @@ If you notice that anything seems off / unthemed, please ping me (@nyraki) in th
 _(better screenshots would be appreciated as well, my ROM doesn't support everything)_
 
 ### Changelog
-> everforests changelog can be found [here.](filler)
+> everforests changelog can be found [here.](https://github.com/myumichi/everforest/blob/main/CHANGELOG.md)
 
 ## Plugin Settings
 ### Themer
