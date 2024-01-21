@@ -57,6 +57,6 @@ _(better screenshots would be appreciated as well, my ROM doesn't support everyt
 - Remove the Nitro Gift button
 - Remove the Wave button in blank DMs
 - Remove the invite button in channels list
-- Remove the nvite button in members list
+- Remove the invite button in members list
 - Remove the student hubs button in the server list
 - Remove the welcome button on join messages
