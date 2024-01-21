@@ -12,6 +12,7 @@ _(better screenshots would be appreciated as well, my ROM doesn't support everyt
 ## Plugin Settings
 ### Themer
 - Transparency mode set to Chat
+- Custom Fonts: Enabled
 
 > [!Important]
 > Everything from here on out is optional. You are not _required_ to do it, but it will __make your experience closer to the screenshots.__ If a setting is not stated, assume it is disabled.
