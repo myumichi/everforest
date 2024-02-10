@@ -2,7 +2,7 @@
     "manifest": {
         "author": "nyraki",
         "name": "everforest",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "license": "MIT",
         "updater": "https:\/\/raw.githubusercontent.com\/myumichi\/everforest\/main\/themes\/everforest.json"
     },
@@ -43,7 +43,7 @@
         "primary_dark_400": -8747912,
         "brand_new_360": -2898006,
         "primary_300": -14472658,
-        "black_alpha_10": -5783424,
+        "black_alpha_10": -12761011,
         "primary_dark_660": -14472658,
         "primary_600": 2134327879,
         "primary_630": -14472658,
