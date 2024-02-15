@@ -2,7 +2,7 @@
     "manifest": {
         "author": "nyraki",
         "name": "everforest",
-        "version": "1.0.1",
+        "version": "1.0.2",
         "license": "MIT",
         "updater": "https:\/\/raw.githubusercontent.com\/myumichi\/everforest\/main\/themes\/everforest.json"
     },
@@ -43,14 +43,15 @@
         "primary_dark_400": -8747912,
         "brand_new_360": -2898006,
         "primary_300": -14472658,
-        "black_alpha_10": -12761011,
+        "black_alpha_10": 4016205,
         "primary_dark_660": -14472658,
-        "primary_600": 2134327879,
+        "primary_600": 3621447,
         "primary_630": -14472658,
         "primary_660": -5783424,
         "status_grey_200": -5783424,
         "primary_dark_300": -5783424,
-        "brand_new_260": -2898006
+        "brand_new_260": -2898006,
+        "brand_new_500": -5783424
     },
     "drawable_tints": {
         "ic_channel_text": -5783424,

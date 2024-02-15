@@ -3,7 +3,8 @@
         "author": "nyraki",
         "name": "everforest, amoled",
         "version": "1.0.0",
-        "license": "MIT"
+        "license": "MIT",
+        "updater": "https:\/\/raw.githubusercontent.com\/myumichi\/everforest\/main\/themes\/everforest-amoled.json"
     },
     "background": {},
     "fonts": {
